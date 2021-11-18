@@ -1,6 +1,6 @@
 # Docs
-The docs of dorayaki, include the duty, the governance rules, the rules of each day.
-## daorayaki team Daily norms
+The docs of DAOrayaki, include the duty, the governance rules, the rules of each day.
+## DAOrayaki Team Daily Norms
 
 1. Meeting should attend in time.
 2. Each one should obey the rules.
@@ -11,12 +11,12 @@ The docs of dorayaki, include the duty, the governance rules, the rules of each 
 7. Everyone should not play phones when meeting, if there is very important things, give 1-5 mines at most depending on the situation. Personal things only have 30s.
 8.  Everyone need to keep ontice the information of discord, telegram, wechat of daorayaki and provide feedback.
 
-## daorayaki governance rules
+## DAOrayaki Governance Rules
 
 1. Each Monday 7:30 pm, we will have a weekly meeting to report the works of this week.
 2. Each person have one vote power, wendy have 2 for his special contribution. If for a proposal, the vote result is 3 to 3, we have one chance to revote. If still not decide, we will toss a coin.
 
-## duty of each person
+## Duty of Each Person
 
 ### Wendy:
 1. Grant.
