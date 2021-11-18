@@ -18,7 +18,7 @@ The docs of dorayaki, include the duty, the governance rules, the rules of each 
 
 ## duty of each person
 
-Wendy:
+### Wendy:
 1. Grant.
 2. Incubator plan
 3. Distribute/review the work/video
@@ -30,7 +30,7 @@ Wendy:
 9. Support the core team
 10. Deisgn the point system
 
-Unes:
+### Unes:
 1. Cover the English project/weekly
 2. Provide incentive  idea /governance ideas
 3. Distribute the money
@@ -39,20 +39,20 @@ Unes:
 6. Manage the Enlgish Community
 7. Talking technology with will/project with chi/assitant wendy.
 
-Chi:
+### Chi:
 1. Translate
 2. English Community Asstiant
 3. Extend Daorayaki
 4. Video Manage
 5. Design asstant
 
-Herry:
+### Herry:
 1. Cover project/English
 2. Video recoding/publish
 3. Mangement of Chinese Community
 4. Business Connection/Cooperation
 
-Will:
+### Will:
 1. Github management
 2. Video work
 3. Aletheia Channel
